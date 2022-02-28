@@ -1,2 +1,2 @@
-The is a look like readme file
+The is a nottt a readme file
 And this is Git101 session
